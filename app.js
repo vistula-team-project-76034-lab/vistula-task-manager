@@ -261,7 +261,7 @@ async function init() {
   }
 
   if (!config.supabaseUrl || !config.supabasePublishableKey || !config.tableName ||
-      config.supabaseUrl.indexOf('YOUR_PROJECT_ID') !== -1) {
+      config.supabasePublishableKey.indexOf('YOUR_KEY') !== -1) {
     showStatus('config.json is not filled in yet: set supabaseUrl and supabasePublishableKey.', 'error');
     return;
   }
