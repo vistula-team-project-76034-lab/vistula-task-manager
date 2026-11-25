@@ -18,8 +18,10 @@ Supabase (PostgreSQL) database and accessed through the automatically generated 
 
 ## Pull Requests (team collaboration)
 
-- **Pull Request I created in my partner's repository:** PR_LINK_OUTGOING
-- **Pull Request I received and merged into my repository:** PR_LINK_INCOMING
+**Status: pending.** I have not been assigned a partner yet, so the Pull Request exchange (Part B) has not been completed. Links to both merged Pull Requests will be added here once it is done.
+
+- **Pull Request I created in my partner's repository:** pending
+- **Pull Request I received and merged into my repository:** pending
 
 ## Technologies
 
