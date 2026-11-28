@@ -18,10 +18,10 @@ Supabase (PostgreSQL) database and accessed through the automatically generated 
 
 ## Pull Requests (team collaboration)
 
-**Status: pending.** I have not been assigned a partner yet, so the Pull Request exchange (Part B) has not been completed. Links to both merged Pull Requests will be added here once it is done.
+Partner: **vistula-team-project-72866** (student ID 72866)
 
-- **Pull Request I created in my partner's repository:** pending
-- **Pull Request I received and merged into my repository:** pending
+- **Pull Request I created in my partner's repository (merged):** https://github.com/vistula-team-project-72866/vistula-task-manager/pull/1
+- **Pull Request I received and merged into my repository:** https://github.com/vistula-team-project-76034-lab/vistula-task-manager/pull/1
 
 ## Technologies
 
